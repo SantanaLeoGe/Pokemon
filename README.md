@@ -1,4 +1,4 @@
-Examen SERTI
+## Examen SERTI
 
 Este proyecto fue elaborado mediante el JDK 21 de Oracle java y con el IDE intellij Idea
 
@@ -19,11 +19,12 @@ Documentación con Swagger o similar
 Diagrama ER para base de datos
 La entrega se hará vía Github o Google Drive
 
-URL de local host:
+## URL de local host
 http://localhost:8080/pokemon-api/api/pokemon/ + id 
-ejemplo: http://localhost:8080/pokemon-api/api/pokemon/7
+ejemplo: http://localhost:8080/pokemon-api/api/pokemon/7 para obtener el id, nombre y tipo del pokemon
+http://localhost:8080/pokemon-api/actuator/health para consultar el estatus mediante actuator
 
-Autentificacion:
+## Autentificacion
 usuario: user
 contraseña: password
 
